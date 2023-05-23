@@ -1,3 +1,6 @@
 [submodule "advent-of-code/2022/nim-aoc-2022"]
 	path = advent-of-code/2022/nim-aoc-2022
 	url = https://github.com/Foxicution/nim-aoc-2022
+[submodule "exploration/ai-playground"]
+	path = exploration/ai-playground
+	url = https://github.com/Foxicution/ai-playground
