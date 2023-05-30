@@ -4,3 +4,6 @@
 [submodule "exploration/ai-playground"]
 	path = exploration/ai-playground
 	url = https://github.com/Foxicution/ai-playground
+[submodule "university/masters/masters-thesis"]
+	path = university/masters/masters-thesis
+	url = https://github.com/Foxicution/masters-thesis
