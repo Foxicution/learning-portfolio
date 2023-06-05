@@ -7,3 +7,6 @@
 [submodule "university/masters/masters-thesis"]
 	path = university/masters/masters-thesis
 	url = https://github.com/Foxicution/masters-thesis
+[submodule "advent-of-code/2022/rust-aoc-2022"]
+	path = advent-of-code/2022/rust-aoc-2022
+	url = https://github.com/Foxicution/rust-aoc-2022
