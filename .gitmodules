@@ -10,6 +10,3 @@
 [submodule "advent-of-code/2022/rust-aoc-2022"]
 	path = advent-of-code/2022/rust-aoc-2022
 	url = https://github.com/Foxicution/rust-aoc-2022
-[submodule "codecrafters/bittorrent-python"]
-	path = codecrafters/bittorrent-python
-	url = https://git.codecrafters.io/31bcdb8f9374adc5
